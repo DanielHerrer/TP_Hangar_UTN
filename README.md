@@ -46,10 +46,8 @@ aeroplanos que hayan finalizado con éxito sus viajes y los que colisionaron.
 
 >Ver todos los Aviones disponibles:
 >>Puede visualizar todos los Aviones dados de alta.
-
 >Ver todos los Pilotos disponibles:
 >>Puede visualizar todos los Pilotos dados de alta. 
-
 >Modificar mi Perfil:
 >>Puede modificar el Usuario autenticado. 
 
@@ -91,19 +89,14 @@ aeroplanos que hayan finalizado con éxito sus viajes y los que colisionaron.
 
 >Listar Usuarios:
 >>Puede visualizar todos los Usuarios.
-
 >Ver ultimos Login:
 >>Puede visualizar los ultimos 50 login realizado en el Sistema. 
-
 >Dar permisos a un Usuario:
 >>Puede modificar los permisos de un Usuario. 
-
 >Modificar un Usuario:
 >>Puede modificar un Usuario por su ID. 
-
 >Dar de baja/alta un Usuario:
 >>Puede dar de baja o dar de alta un Usuario por su ID. 
-
 >Modificar mi Perfil:
 >>Puede modificar el Usuario autenticado. 
 

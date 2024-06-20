@@ -56,33 +56,33 @@ aeroplanos que hayan finalizado con éxito sus viajes y los que colisionaron.
 **Menu OPERADOR** 👨‍💼
 
 >🚥 Menu Hangar de Despegue :
->>Asignar Avion y Piloto al Hangar de Despegue
->>Retirar todos los Aviones del Hangar
->>Mostrar Hangar
->>(BETA) Ejecutar Radar y Despegue
+>>Asignar Avion y Piloto al Hangar de Despegue<br>
+>>Retirar todos los Aviones del Hangar<br>
+>>Mostrar Hangar<br>
+>>(BETA) Ejecutar Radar y Despegue<br>
 
 >✈️ Menu Taller de Aviones:
->>Recargar Combustible
->>Ver Aeroplanos:
->>>Buscar Avion/es por Nombre
->>>Ver todos los Aeroplanos
->>>Ver Aviones alfabeticamente
->>>Ver Aeroplanos disponibles
->>>Ver Aeroplanos dados de baja
->>Agregar Avion
->>Modificar Avion
->>Dar de alta/baja
+>>Recargar Combustible<br>
+>>Ver Aeroplanos:<br>
+>>>Buscar Avion/es por Nombre<br>
+>>>Ver todos los Aeroplanos<br>
+>>>Ver Aviones alfabeticamente<br>
+>>>Ver Aeroplanos disponibles<br>
+>>>Ver Aeroplanos dados de baja<br>
+>>Agregar Avion<br>
+>>Modificar Avion<br>
+>>Dar de alta/baja<br>
 
->👨‍✈️ Menu Cuartel de Pilotos :
->>Ver Pilotos:
->>>Buscar Piloto/s por Nombre
->>>Ver todo los Pilotos
->>>Ver Pilotos alfabeticamente
->>>Ver Pilotos disponibles
->>>Ver Pilotos dados de baja
->>Agregar Piloto
->>Modificar Piloto
->>Dar de baja/alta
+>👥 Menu Cuartel de Pilotos :
+>>Ver Pilotos:<br>
+>>>Buscar Piloto/s por Nombre<br>
+>>>Ver todo los Pilotos<br>
+>>>Ver Pilotos alfabeticamente<br>
+>>>Ver Pilotos disponibles<br>
+>>>Ver Pilotos dados de baja<br>
+>>Agregar Piloto<br>
+>>Modificar Piloto<br>
+>>Dar de baja/alta<br>
 
 >Modificar mi Perfil:
 >>Puede modificar el Usuario autenticado. 
@@ -117,7 +117,7 @@ aeroplanos que hayan finalizado con éxito sus viajes y los que colisionaron.
 
 ## Integrantes Equipo 2 Comision 6 T.U.P Programacion I
 
->Daniel Franco Herrera
->Leonel Benavides Colmeck
->Diego Groppo
->Ignacio Gonzalez
+>Daniel Franco Herrera<br>
+>Leonel Benavides Colmeck<br>
+>Diego Groppo<br>
+>Ignacio Gonzalez<br>

@@ -44,61 +44,49 @@ aeroplanos que hayan finalizado con éxito sus viajes y los que colisionaron.
 
 **Menu INVITADO** 📍
 
->Ver todos los Aviones disponibles:
->>Puede visualizar todos los Aviones dados de alta.
->Ver todos los Pilotos disponibles:
->>Puede visualizar todos los Pilotos dados de alta. 
->Modificar mi Perfil:
->>Puede modificar el Usuario autenticado. 
+>-Ver todos los Aviones disponibles<br>
+>-Ver todos los Pilotos disponibles<br>
+>-Modificar mi Perfil<br>
 
 **Menu OPERADOR** 👨‍💼
 
->🚥 Menu Hangar de Despegue :
->>Asignar Avion y Piloto al Hangar de Despegue<br>
->>Retirar todos los Aviones del Hangar<br>
->>Mostrar Hangar<br>
->>(BETA) Ejecutar Radar y Despegue<br>
+>🚥 Menu Hangar de Despegue:
+>>-Asignar Avion y Piloto al Hangar de Despegue<br>
+>>-Retirar todos los Aviones del Hangar<br>
+>>-Mostrar Hangar<br>
+>>-(BETA) Ejecutar Radar y Despegue<br>
 
 >✈️ Menu Taller de Aviones:
->>Recargar Combustible<br>
->>Ver Aeroplanos:<br>
->>>Buscar Avion/es por Nombre<br>
->>>Ver todos los Aeroplanos<br>
->>>Ver Aviones alfabeticamente<br>
->>>Ver Aeroplanos disponibles<br>
->>>Ver Aeroplanos dados de baja<br>
->>Agregar Avion<br>
->>Modificar Avion<br>
->>Dar de alta/baja<br>
+>>-Recargar Combustible<br>
+>>-Buscar Avion/es por Nombre<br>
+>>-Ver todos los Aeroplanos<br>
+>>-Ver Aviones alfabeticamente<br>
+>>-Ver Aeroplanos disponibles<br>
+>>-Ver Aeroplanos dados de baja<br>
+>>-Agregar Avion<br>
+>>-Modificar Avion<br>
+>>-Dar de alta/baja<br>
 
->👥 Menu Cuartel de Pilotos :
->>Ver Pilotos:<br>
->>>Buscar Piloto/s por Nombre<br>
->>>Ver todo los Pilotos<br>
->>>Ver Pilotos alfabeticamente<br>
->>>Ver Pilotos disponibles<br>
->>>Ver Pilotos dados de baja<br>
->>Agregar Piloto<br>
->>Modificar Piloto<br>
->>Dar de baja/alta<br>
+>👥 Menu Cuartel de Pilotos:
+>>-Buscar Piloto/s por Nombre<br>
+>>-Ver todo los Pilotos<br>
+>>-Ver Pilotos alfabeticamente<br>
+>>-Ver Pilotos disponibles<br>
+>>-Ver Pilotos dados de baja<br>
+>>-Agregar Piloto<br>
+>>-Modificar Piloto<br>
+>>-Dar de baja/alta<br>
 
->Modificar mi Perfil:
->>Puede modificar el Usuario autenticado. 
+>-Modificar mi Perfil<br>
 
 **Menu ADMIN** 👑
 
->Listar Usuarios:
->>Puede visualizar todos los Usuarios.
->Ver ultimos Login:
->>Puede visualizar los ultimos 50 login realizado en el Sistema. 
->Dar permisos a un Usuario:
->>Puede modificar los permisos de un Usuario. 
->Modificar un Usuario:
->>Puede modificar un Usuario por su ID. 
->Dar de baja/alta un Usuario:
->>Puede dar de baja o dar de alta un Usuario por su ID. 
->Modificar mi Perfil:
->>Puede modificar el Usuario autenticado. 
+>-Listar Usuarios<br>
+>-Ver ultimos Login<br>
+>-Dar permisos a un Usuario<br>
+>-Modificar un Usuario<br>
+>-Dar de baja/alta un Usuario<br>
+>-Modificar mi Perfil<br>
 
 ## 🛠️ Tecnologías utilizadas
 

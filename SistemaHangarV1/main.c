@@ -511,9 +511,9 @@ void menuOperador()
         textcolor(9);
         mostrarDialogo("Menu Operador");
         textcolor(15);
-        printf("\n\n1. Menu Hangar de Despegue\n2. Menu Taller de Aviones\n3. Menu Cuartel de Pilotos\n\n");
+        printf("\n\n1. Menu Hangar de Despegue\n2. Menu Taller de Aviones\n3. Menu Cuartel de Pilotos\n\n4. Modificar mi Perfil");
         textcolor(9);
-        printf("0. Cerrar Sesion");
+        printf("\n\n0. Cerrar Sesion");
         textcolor(15);
         printf("\n\nIngrese opcion => ");
         fflush(stdin);
@@ -528,6 +528,9 @@ void menuOperador()
             break;
         case '3':
             subMenuCuartel();
+            break;
+        case '4':
+            modificarUsuarioAutenticado();
             break;
         case '0':
             logout = 1;

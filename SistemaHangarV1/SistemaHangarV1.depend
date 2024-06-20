@@ -15,3 +15,19 @@
 1713488556 source:c:\users\hazzer\desktop\tp hangar g2 c6\sistemahangarv1\pila.c
 	"pila.h"
 
+1718913803 source:c:\users\hazzer\desktop\tp hangar g2 c6\repositorio hangar git\sistemahangarv1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	"pila.h"
+
+1713488556 c:\users\hazzer\desktop\tp hangar g2 c6\repositorio hangar git\sistemahangarv1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1713488556 source:c:\users\hazzer\desktop\tp hangar g2 c6\repositorio hangar git\sistemahangarv1\pila.c
+	"pila.h"
+

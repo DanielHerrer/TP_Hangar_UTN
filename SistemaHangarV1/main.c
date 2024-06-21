@@ -2821,7 +2821,8 @@ void cargarUltimoRegistroRecursivo(Pila *pila, FILE *archi, int *contador)
         if (*contador < 50)
         {
             apilar(pila,r.id);
-            *contador ++;
+            int aux = *contador;
+            *contador = (aux + 1);
         }
     }
 }
